@@ -90,3 +90,6 @@ typings/
 
 # Electron-Forge
 out/
+
+# Cursor Rules
+.cursor/rules/
