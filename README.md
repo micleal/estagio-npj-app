@@ -25,7 +25,7 @@ Este é um aplicativo desktop desenvolvido como atividade de estágio para aluno
 
 ## Requisitos do Sistema
 
-- Node.js (versão 14 ou superior)
+- Node.js (versão 22 ou superior)
 - PNPM (gerenciador de pacotes)
 - Windows 10 ou superior
 
@@ -34,7 +34,7 @@ Este é um aplicativo desktop desenvolvido como atividade de estágio para aluno
 1. Clone o repositório:
 
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/micleal/estagio-npj-app
 ```
 
 2. Instale as dependências:
